@@ -1,0 +1,15 @@
+C:\Users\BGS\Desktop\Myket\HopGame\HopGame\bin\Debug\net6.0\HopGame.exe
+C:\Users\BGS\Desktop\Myket\HopGame\HopGame\bin\Debug\net6.0\HopGame.deps.json
+C:\Users\BGS\Desktop\Myket\HopGame\HopGame\bin\Debug\net6.0\HopGame.runtimeconfig.json
+C:\Users\BGS\Desktop\Myket\HopGame\HopGame\bin\Debug\net6.0\HopGame.dll
+C:\Users\BGS\Desktop\Myket\HopGame\HopGame\bin\Debug\net6.0\ref\HopGame.dll
+C:\Users\BGS\Desktop\Myket\HopGame\HopGame\bin\Debug\net6.0\HopGame.pdb
+C:\Users\BGS\Desktop\Myket\HopGame\HopGame\obj\Debug\net6.0\HopGame.csproj.AssemblyReference.cache
+C:\Users\BGS\Desktop\Myket\HopGame\HopGame\obj\Debug\net6.0\HopGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BGS\Desktop\Myket\HopGame\HopGame\obj\Debug\net6.0\HopGame.AssemblyInfoInputs.cache
+C:\Users\BGS\Desktop\Myket\HopGame\HopGame\obj\Debug\net6.0\HopGame.AssemblyInfo.cs
+C:\Users\BGS\Desktop\Myket\HopGame\HopGame\obj\Debug\net6.0\HopGame.csproj.CoreCompileInputs.cache
+C:\Users\BGS\Desktop\Myket\HopGame\HopGame\obj\Debug\net6.0\HopGame.dll
+C:\Users\BGS\Desktop\Myket\HopGame\HopGame\obj\Debug\net6.0\ref\HopGame.dll
+C:\Users\BGS\Desktop\Myket\HopGame\HopGame\obj\Debug\net6.0\HopGame.pdb
+C:\Users\BGS\Desktop\Myket\HopGame\HopGame\obj\Debug\net6.0\HopGame.genruntimeconfig.cache
